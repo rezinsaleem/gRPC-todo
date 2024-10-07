@@ -1,0 +1,9 @@
+notification service
+aauthentication service 
+productlisting service
+review service
+order service
+return service
+cart & wishlist service
+userdetails service
+selling service
